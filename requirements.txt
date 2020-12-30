@@ -1,0 +1,7 @@
+pillow=8.0
+numpy
+qrtools
+pyzbar
+qrcode
+pyqrcode
+tkinter
