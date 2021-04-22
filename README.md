@@ -23,6 +23,6 @@ steganography of image data with QR code integrity. The project can convert imag
  
      Running:
      
-       python mian.py 
+       python main.py 
 
 
