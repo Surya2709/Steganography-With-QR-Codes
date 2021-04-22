@@ -4,7 +4,7 @@ steganography of image data with QR code integrity. The project can convert imag
 <b>Notable Factors: </b>
 
 
-      Number of qrcode images produced ~ Size of the input image feeded
+      Number of qrcode images produced is directly proportional to the  Size of the input image feeded
       
       Output image Will be in gray scale since some work is awaiting to be done there. Contributions are most welcomed !
       
@@ -26,3 +26,4 @@ steganography of image data with QR code integrity. The project can convert imag
        python init.py 
 
 
+ 
